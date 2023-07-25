@@ -676,6 +676,7 @@ footer ul a:hover{
         z-index: 2;
     }
     .drop a h2{
+        display: none;
         color: var(--color-white);
         font-family: 'Fredoka', sans-serif;
     }
